@@ -14,12 +14,12 @@ This repository documents my complete journey from Linux to production-ready Dev
 
 - ✅ Linux
 - ✅ Git & GitHub
-- ⏳ Docker
-- ⏳ Jenkins
-- ⏳ Kubernetes
+- ✅ Docker
+- ✅ Jenkins
+- ✅ Kubernetes
 - ⏳ Terraform
 - ⏳ AWS
-- ⏳ CI/CD
+- ✅ CI/CD
 - ⏳ Monitoring
 
 ---
