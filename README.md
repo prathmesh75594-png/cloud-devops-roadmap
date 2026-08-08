@@ -13,6 +13,7 @@ This repository documents my complete journey from Linux to production-ready Dev
 ## 📚 Learning Progress
 
 - ✅ Linux
+- ✅ Networking
 - ✅ Git & GitHub
 - ✅ Docker
 - ✅ Jenkins
@@ -34,6 +35,7 @@ Become internship and placement ready by building real-world DevOps projects.
 
 ```
 Linux/
+Networking /
 Git/
 Docker/
 Jenkins/
