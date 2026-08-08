@@ -21,7 +21,7 @@ This repository documents my complete journey from Linux to production-ready Dev
 - ⏳ Terraform
 - ⏳ AWS
 - ✅ CI/CD
--  Monitoring
+- ⏳ Monitoring
 
 ---
 
