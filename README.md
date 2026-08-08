@@ -16,7 +16,7 @@ This repository documents my complete journey from Linux to production-ready Dev
 - ✅ Git & GitHub
 - ✅ Docker
 - ✅ Jenkins
-- ✅ Kubernetes
+- ⏳ Kubernetes
 - ⏳ Terraform
 - ⏳ AWS
 - ✅ CI/CD
