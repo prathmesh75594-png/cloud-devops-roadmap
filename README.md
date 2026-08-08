@@ -42,4 +42,5 @@ Terraform/
 AWS/
 Projects/
 Notes/
+CI/CD/
 ```
