@@ -4,7 +4,7 @@
 
 Hi, I'm **Prathmesh Pagare**.
 
-I'm a Final-Year Information Technology student passionate about Cloud Computing and DevOps.
+I'm a Final-Year Information Technology student passionate about Cloud and DevOps.
 
 This repository documents my complete journey from Linux to production-ready DevOps projects.
 
