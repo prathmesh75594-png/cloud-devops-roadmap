@@ -1,1 +1,71 @@
-python is usefull in Dvops
+# Python for DevOps
+
+This section covers Python concepts required for Cloud and DevOps
+automation, scripting, AWS automation, API interaction and interviews.
+
+## What I am Learning
+
+### 1. Python Fundamentals
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+
+### 2. Data Structures
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+
+### 3. Functions
+- Functions
+- Arguments
+- Return Values
+- Lambda Functions
+- Modules
+
+### 4. File Handling
+- Reading files
+- Writing files
+- CSV
+- JSON
+
+### 5. Exception Handling
+- try
+- except
+- else
+- finally
+- raise
+
+### 6. DevOps Automation
+- os
+- sys
+- subprocess
+- pathlib
+- shutil
+- Environment Variables
+
+### 7. API Automation
+- HTTP methods
+- REST APIs
+- requests library
+- JSON responses
+
+### 8. AWS Automation
+- Boto3
+- EC2
+- S3
+- IAM
+
+### 9. Interview Programs
+- String programs
+- List programs
+- Dictionary programs
+- File handling programs
+- Basic problem solving
+
+### 10. Mini Projects
+- Log Analyzer
+- System Monitor
+- Backup Script
