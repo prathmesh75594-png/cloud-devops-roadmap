@@ -69,3 +69,20 @@ automation, scripting, AWS automation, API interaction and interviews.
 - Log Analyzer
 - System Monitor
 - Backup Script
+
+
+##  1] Run Linux commands from Python :--
+
+import subprocess
+
+
+result = subprocess.run(
+    ["df", "-h"],
+    capture_output=True,
+    text=True
+)
+
+
+print(result.stdout)
+
+      
