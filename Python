@@ -85,4 +85,12 @@ result = subprocess.run(
 
 print(result.stdout)
 
-      
+      2] Work with environment variables :--
+
+import os
+
+
+username = os.getenv("USERNAME")
+
+
+print(username)
