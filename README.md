@@ -22,6 +22,7 @@ This repository documents my complete journey from Linux to production-ready Dev
 - ⏳ AWS
 - ✅ CI/CD
 - ⏳ Monitoring
+-   Python & Bash 
 
 ---
 
